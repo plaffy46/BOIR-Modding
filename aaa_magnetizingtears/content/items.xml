@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive description="Stop right there!" gfx="policetaser.png" name="Police Taser" special="true" cache=""/>
+</items>
