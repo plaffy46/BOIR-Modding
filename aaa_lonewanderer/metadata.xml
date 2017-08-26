@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Magnetizing tears</name>
+    <directory>magnet tears</directory>
+    <id>154735942</id>
+    <description>
+
+~MAGNETIZING TEARS~
+
+- You can now shoot magnetizing tears. Magneted enemies will physically attract nearby enemies.
+- Attraction range is based on your Range stat, attraction force is based on your shot speed up stat.
+- There's a (8 + Luck * 2)% chance of firing a magnetizing tear.
+
+Idea and code by Plaffy46, Artwork by XXX
+</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>
